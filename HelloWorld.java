@@ -13,8 +13,10 @@ public class HelloWorld {
             String name = bis.readLine();
             System.out.println("Привет, уважаемый гость - "+name);
         } catch (IOException e) {
-            e.printStackTrace();
+            System.out.println("ошибка");
         }
 //dfdfd
+        //sdfdsfpodskjfpodsfdsf
+        //sdfdsf
     }
 }
